@@ -1,3 +1,2 @@
 # nmap-scanner
-
-port scanner to remove unneccessary lines
+mostly used for ctf 
