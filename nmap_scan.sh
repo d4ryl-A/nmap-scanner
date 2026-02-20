@@ -1,4 +1,4 @@
- #!/bin/bash
+#!/bin/bash
  set -uo pipefail
  
  target_IP="${1:?Usage: $0 <target_ip>}"
